@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate Ethical Hacker</h3>
+<h3 align="center">A passionate Computer Engineer with a Hacker Mindset</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="omarwastaken" /> </p>
 
